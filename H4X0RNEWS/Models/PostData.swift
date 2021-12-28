@@ -12,11 +12,11 @@ struct Results: Decodable {
 }
 
 struct Post: Decodable, Identifiable {
-    let id: String {
+    var id: String {
         return objectID
     }
     let objectID: String
     let points: Int
     let title: String
-    let url: String
+    let url: String?
 }
