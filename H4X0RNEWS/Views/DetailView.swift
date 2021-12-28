@@ -8,9 +8,6 @@
 import SwiftUI
 
 
-
-
-
 struct DetailView: View {
     
     let url: String?

@@ -28,7 +28,8 @@ struct ContentView: View {
                 
                 //  .padding()
             }
-            .navigationTitle("H4X0RNEWS")
+            .navigationTitle("H4X0RNEWS:")
+          
         }
         .onAppear(perform: {
             self.networkManager.fetchData()
@@ -45,9 +46,3 @@ struct ContentView_Previews: PreviewProvider {
 
 
 
-//let posts = [
-//Post(id: "1", title: "Hello1"),
-//    Post(id: "2", title: "Hello2"),
-//    Post(id: "3", title: "Hello3")
-//]
-//
