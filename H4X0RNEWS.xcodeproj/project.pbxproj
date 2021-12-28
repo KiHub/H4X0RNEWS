@@ -14,6 +14,7 @@
 		0BDB7BAE277B7BD4008FE558 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BDB7BAD277B7BD4008FE558 /* NetworkManager.swift */; };
 		0BDB7BB2277B80D5008FE558 /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BDB7BB1277B80D5008FE558 /* PostData.swift */; };
 		0BDB7BB6277BB01D008FE558 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BDB7BB5277BB01D008FE558 /* DetailView.swift */; };
+		0BDB7BBA277BC6AD008FE558 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BDB7BB9277BC6AD008FE558 /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0BDB7BAD277B7BD4008FE558 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		0BDB7BB1277B80D5008FE558 /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		0BDB7BB5277BB01D008FE558 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		0BDB7BB9277BC6AD008FE558 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 			children = (
 				0BDB7B9E277B73B2008FE558 /* ContentView.swift */,
 				0BDB7BB5277BB01D008FE558 /* DetailView.swift */,
+				0BDB7BB9277BC6AD008FE558 /* WebView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				0BDB7BAE277B7BD4008FE558 /* NetworkManager.swift in Sources */,
 				0BDB7BB2277B80D5008FE558 /* PostData.swift in Sources */,
 				0BDB7B9F277B73B2008FE558 /* ContentView.swift in Sources */,
+				0BDB7BBA277BC6AD008FE558 /* WebView.swift in Sources */,
 				0BDB7BB6277BB01D008FE558 /* DetailView.swift in Sources */,
 				0BDB7B9D277B73B2008FE558 /* H4X0RNEWSApp.swift in Sources */,
 			);
